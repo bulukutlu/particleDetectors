@@ -757,7 +757,31 @@ gdjs.copyArray(runtimeScene.getObjects("Alice"), gdjs.Level_321Code.GDAliceObjec
 
 };gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDprof_95959595talk_95959595zoneObjects2Objects = Hashtable.newFrom({"prof_talk_zone": gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects2});
+gdjs.Level_321Code.asyncCallback10864436 = function (runtimeScene, asyncObjectsList) {
+gdjs.copyArray(asyncObjectsList.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects2);
+
+{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects2.length ;i < len;++i) {
+    gdjs.Level_321Code.GDcoverObjects2[i].getBehavior("Opacity").setOpacity(0);
+}
+}{gdjs.evtTools.runtimeScene.pushScene(runtimeScene, "CloudChamber");
+}}
 gdjs.Level_321Code.eventsList9 = function(runtimeScene) {
+
+{
+
+
+{
+{
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+for (const obj of gdjs.Level_321Code.GDcoverObjects1) asyncObjectsList.addObject("cover", obj);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.2), (runtimeScene) => (gdjs.Level_321Code.asyncCallback10864436(runtimeScene, asyncObjectsList)));
+}
+}
+
+}
+
+
+};gdjs.Level_321Code.eventsList10 = function(runtimeScene) {
 
 {
 
@@ -878,6 +902,7 @@ isConditionTrue_0 = gdjs.evtTools.input.wasKeyReleased(runtimeScene, "x");
 }
 if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("InfoText"), gdjs.Level_321Code.GDInfoTextObjects1);
+gdjs.copyArray(runtimeScene.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects1);
 gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxObjects1);
 {for(var i = 0, len = gdjs.Level_321Code.GDInfoTextObjects1.length ;i < len;++i) {
     gdjs.Level_321Code.GDInfoTextObjects1[i].hide();
@@ -885,15 +910,20 @@ gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxO
 }{for(var i = 0, len = gdjs.Level_321Code.GDinfoBoxObjects1.length ;i < len;++i) {
     gdjs.Level_321Code.GDinfoBoxObjects1[i].hide();
 }
-}{gdjs.evtTools.runtimeScene.pushScene(runtimeScene, "CloudChamber");
-}}
+}{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects1.length ;i < len;++i) {
+    gdjs.Level_321Code.GDcoverObjects1[i].getBehavior("Opacity").setOpacity(255);
+}
+}
+{ //Subevents
+gdjs.Level_321Code.eventsList9(runtimeScene);} //End of subevents
+}
 
 }
 
 
 };gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects1Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects1});
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDprof_95959595talk_95959595zoneObjects1Objects = Hashtable.newFrom({"prof_talk_zone": gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects1});
-gdjs.Level_321Code.eventsList10 = function(runtimeScene) {
+gdjs.Level_321Code.eventsList11 = function(runtimeScene) {
 
 {
 
@@ -937,7 +967,7 @@ gdjs.copyArray(runtimeScene.getObjects("ProfDetectos"), gdjs.Level_321Code.GDPro
 }
 
 
-};gdjs.Level_321Code.eventsList11 = function(runtimeScene) {
+};gdjs.Level_321Code.eventsList12 = function(runtimeScene) {
 
 {
 
@@ -1156,14 +1186,14 @@ gdjs.Level_321Code.eventsList8(runtimeScene);
 {
 
 
-gdjs.Level_321Code.eventsList9(runtimeScene);
+gdjs.Level_321Code.eventsList10(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Level_321Code.eventsList10(runtimeScene);
+gdjs.Level_321Code.eventsList11(runtimeScene);
 }
 
 
@@ -1274,7 +1304,7 @@ gdjs.copyArray(runtimeScene.getObjects("projectorImages"), gdjs.Level_321Code.GD
     gdjs.Level_321Code.GDProf_9595bubbleObjects1[i].setPosition(5100,250);
 }
 }{for(var i = 0, len = gdjs.Level_321Code.GDProf_9595textObjects1.length ;i < len;++i) {
-    gdjs.Level_321Code.GDProf_9595textObjects1[i].setPosition(5150,495);
+    gdjs.Level_321Code.GDProf_9595textObjects1[i].setPosition(5150,490);
 }
 }{for(var i = 0, len = gdjs.Level_321Code.GDProf_9595textObjects1.length ;i < len;++i) {
     gdjs.Level_321Code.GDProf_9595textObjects1[i].setWrappingWidth(500);
@@ -1383,7 +1413,7 @@ gdjs.Level_321Code.GDprojectorImagesObjects1.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects2.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects3.length = 0;
 
-gdjs.Level_321Code.eventsList11(runtimeScene);
+gdjs.Level_321Code.eventsList12(runtimeScene);
 
 return;
 
