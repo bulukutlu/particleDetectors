@@ -11,7 +11,7 @@ gdjs.CloudChamberCode.GDNewBitmapTextObjects1= [];
 gdjs.CloudChamberCode.GDNewBitmapTextObjects2= [];
 
 
-gdjs.CloudChamberCode.asyncCallback11391956 = function (runtimeScene, asyncObjectsList) {
+gdjs.CloudChamberCode.asyncCallback11650820 = function (runtimeScene, asyncObjectsList) {
 gdjs.copyArray(asyncObjectsList.getObjects("cloudChamber_top"), gdjs.CloudChamberCode.GDcloudChamber_9595topObjects2);
 
 gdjs.copyArray(asyncObjectsList.getObjects("myParticle"), gdjs.CloudChamberCode.GDmyParticleObjects2);
@@ -37,14 +37,14 @@ gdjs.CloudChamberCode.eventsList0 = function(runtimeScene) {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 for (const obj of gdjs.CloudChamberCode.GDcloudChamber_9595topObjects1) asyncObjectsList.addObject("cloudChamber_top", obj);
 for (const obj of gdjs.CloudChamberCode.GDmyParticleObjects1) asyncObjectsList.addObject("myParticle", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.2), (runtimeScene) => (gdjs.CloudChamberCode.asyncCallback11391956(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.2), (runtimeScene) => (gdjs.CloudChamberCode.asyncCallback11650820(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.CloudChamberCode.asyncCallback11366292 = function (runtimeScene, asyncObjectsList) {
+};gdjs.CloudChamberCode.asyncCallback11653572 = function (runtimeScene, asyncObjectsList) {
 {gdjs.evtTools.runtimeScene.popScene(runtimeScene);
 }}
 gdjs.CloudChamberCode.eventsList1 = function(runtimeScene) {
@@ -55,7 +55,7 @@ gdjs.CloudChamberCode.eventsList1 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.CloudChamberCode.asyncCallback11366292(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.CloudChamberCode.asyncCallback11653572(runtimeScene, asyncObjectsList)));
 }
 }
 
@@ -105,7 +105,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "particle") >= gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(0));
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11379964);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11649180);
 }
 }
 if (isConditionTrue_0) {
@@ -142,7 +142,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(1)) >= gdjs.evtTools.variable.getVariableNumber(runtimeScene.getScene().getVariables().getFromIndex(2));
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11339300);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(11652820);
 }
 }
 if (isConditionTrue_0) {

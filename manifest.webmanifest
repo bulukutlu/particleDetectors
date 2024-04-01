@@ -1,9 +1,9 @@
 {
-  "name": "Faded Library",
-  "short_name": "Faded Library",
+  "name": "Particle Detectors",
+  "short_name": "Particle Detectors",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "any",
+  "orientation": "landscape",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
