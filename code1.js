@@ -4,81 +4,107 @@ gdjs.Level_321Code.GDAObjects2_1final = [];
 gdjs.Level_321Code.GDAliceObjects1= [];
 gdjs.Level_321Code.GDAliceObjects2= [];
 gdjs.Level_321Code.GDAliceObjects3= [];
+gdjs.Level_321Code.GDAliceObjects4= [];
 gdjs.Level_321Code.GDgroundObjects1= [];
 gdjs.Level_321Code.GDgroundObjects2= [];
 gdjs.Level_321Code.GDgroundObjects3= [];
+gdjs.Level_321Code.GDgroundObjects4= [];
 gdjs.Level_321Code.GDpage_9595numberObjects1= [];
 gdjs.Level_321Code.GDpage_9595numberObjects2= [];
 gdjs.Level_321Code.GDpage_9595numberObjects3= [];
+gdjs.Level_321Code.GDpage_9595numberObjects4= [];
 gdjs.Level_321Code.GDBackground_9595hillsObjects1= [];
 gdjs.Level_321Code.GDBackground_9595hillsObjects2= [];
 gdjs.Level_321Code.GDBackground_9595hillsObjects3= [];
+gdjs.Level_321Code.GDBackground_9595hillsObjects4= [];
 gdjs.Level_321Code.GDBuildingObjects1= [];
 gdjs.Level_321Code.GDBuildingObjects2= [];
 gdjs.Level_321Code.GDBuildingObjects3= [];
+gdjs.Level_321Code.GDBuildingObjects4= [];
 gdjs.Level_321Code.GDBackground_9595cloudsObjects1= [];
 gdjs.Level_321Code.GDBackground_9595cloudsObjects2= [];
 gdjs.Level_321Code.GDBackground_9595cloudsObjects3= [];
+gdjs.Level_321Code.GDBackground_9595cloudsObjects4= [];
 gdjs.Level_321Code.GDAlice_9595textObjects1= [];
 gdjs.Level_321Code.GDAlice_9595textObjects2= [];
 gdjs.Level_321Code.GDAlice_9595textObjects3= [];
+gdjs.Level_321Code.GDAlice_9595textObjects4= [];
 gdjs.Level_321Code.GDAlice_9595bubbleObjects1= [];
 gdjs.Level_321Code.GDAlice_9595bubbleObjects2= [];
 gdjs.Level_321Code.GDAlice_9595bubbleObjects3= [];
+gdjs.Level_321Code.GDAlice_9595bubbleObjects4= [];
 gdjs.Level_321Code.GDendObjects1= [];
 gdjs.Level_321Code.GDendObjects2= [];
 gdjs.Level_321Code.GDendObjects3= [];
+gdjs.Level_321Code.GDendObjects4= [];
 gdjs.Level_321Code.GDDetector_9595labObjects1= [];
 gdjs.Level_321Code.GDDetector_9595labObjects2= [];
 gdjs.Level_321Code.GDDetector_9595labObjects3= [];
+gdjs.Level_321Code.GDDetector_9595labObjects4= [];
 gdjs.Level_321Code.GDLab_9595wallObjects1= [];
 gdjs.Level_321Code.GDLab_9595wallObjects2= [];
 gdjs.Level_321Code.GDLab_9595wallObjects3= [];
+gdjs.Level_321Code.GDLab_9595wallObjects4= [];
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects1= [];
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2= [];
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects3= [];
+gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects4= [];
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects1= [];
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects2= [];
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects3= [];
+gdjs.Level_321Code.GDlab_9595interior_9595doorObjects4= [];
 gdjs.Level_321Code.GDcoverObjects1= [];
 gdjs.Level_321Code.GDcoverObjects2= [];
 gdjs.Level_321Code.GDcoverObjects3= [];
+gdjs.Level_321Code.GDcoverObjects4= [];
 gdjs.Level_321Code.GDProfDetectosObjects1= [];
 gdjs.Level_321Code.GDProfDetectosObjects2= [];
 gdjs.Level_321Code.GDProfDetectosObjects3= [];
+gdjs.Level_321Code.GDProfDetectosObjects4= [];
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects1= [];
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects2= [];
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects3= [];
+gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects4= [];
 gdjs.Level_321Code.GDProf_9595textObjects1= [];
 gdjs.Level_321Code.GDProf_9595textObjects2= [];
 gdjs.Level_321Code.GDProf_9595textObjects3= [];
+gdjs.Level_321Code.GDProf_9595textObjects4= [];
 gdjs.Level_321Code.GDProf_9595bubbleObjects1= [];
 gdjs.Level_321Code.GDProf_9595bubbleObjects2= [];
 gdjs.Level_321Code.GDProf_9595bubbleObjects3= [];
+gdjs.Level_321Code.GDProf_9595bubbleObjects4= [];
 gdjs.Level_321Code.GDInfoTextObjects1= [];
 gdjs.Level_321Code.GDInfoTextObjects2= [];
 gdjs.Level_321Code.GDInfoTextObjects3= [];
+gdjs.Level_321Code.GDInfoTextObjects4= [];
 gdjs.Level_321Code.GDlabObjects1= [];
 gdjs.Level_321Code.GDlabObjects2= [];
 gdjs.Level_321Code.GDlabObjects3= [];
+gdjs.Level_321Code.GDlabObjects4= [];
 gdjs.Level_321Code.GDinfoBoxObjects1= [];
 gdjs.Level_321Code.GDinfoBoxObjects2= [];
 gdjs.Level_321Code.GDinfoBoxObjects3= [];
+gdjs.Level_321Code.GDinfoBoxObjects4= [];
 gdjs.Level_321Code.GDprojectorImagesObjects1= [];
 gdjs.Level_321Code.GDprojectorImagesObjects2= [];
 gdjs.Level_321Code.GDprojectorImagesObjects3= [];
+gdjs.Level_321Code.GDprojectorImagesObjects4= [];
 gdjs.Level_321Code.GDleftObjects1= [];
 gdjs.Level_321Code.GDleftObjects2= [];
 gdjs.Level_321Code.GDleftObjects3= [];
+gdjs.Level_321Code.GDleftObjects4= [];
 gdjs.Level_321Code.GDrightObjects1= [];
 gdjs.Level_321Code.GDrightObjects2= [];
 gdjs.Level_321Code.GDrightObjects3= [];
+gdjs.Level_321Code.GDrightObjects4= [];
 gdjs.Level_321Code.GDAObjects1= [];
 gdjs.Level_321Code.GDAObjects2= [];
 gdjs.Level_321Code.GDAObjects3= [];
+gdjs.Level_321Code.GDAObjects4= [];
 gdjs.Level_321Code.GDBObjects1= [];
 gdjs.Level_321Code.GDBObjects2= [];
 gdjs.Level_321Code.GDBObjects3= [];
+gdjs.Level_321Code.GDBObjects4= [];
 
 
 gdjs.Level_321Code.asyncCallback9910492 = function (runtimeScene, asyncObjectsList) {
@@ -545,6 +571,8 @@ gdjs.copyArray(runtimeScene.getObjects("ProfDetectos"), gdjs.Level_321Code.GDPro
 
 };gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects2Objects = Hashtable.newFrom({"lab_exterior_door": gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2});
+gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
+gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects2Objects = Hashtable.newFrom({"lab_exterior_door": gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2});
 gdjs.Level_321Code.asyncCallback10645756 = function (runtimeScene, asyncObjectsList) {
 gdjs.copyArray(asyncObjectsList.getObjects("Alice"), gdjs.Level_321Code.GDAliceObjects3);
 
@@ -616,6 +644,35 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.1)
 
 
 };gdjs.Level_321Code.eventsList9 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Alice"), gdjs.Level_321Code.GDAliceObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lab_exterior_door"), gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects, gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.variable.getVariableBoolean(runtimeScene.getScene().getVariables().getFromIndex(10), false);
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("InfoText"), gdjs.Level_321Code.GDInfoTextObjects2);
+gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxObjects2);
+{for(var i = 0, len = gdjs.Level_321Code.GDInfoTextObjects2.length ;i < len;++i) {
+    gdjs.Level_321Code.GDInfoTextObjects2[i].getBehavior("Text").setText("Press the B button to use doors!");
+}
+}{for(var i = 0, len = gdjs.Level_321Code.GDinfoBoxObjects2.length ;i < len;++i) {
+    gdjs.Level_321Code.GDinfoBoxObjects2[i].hide(false);
+}
+}{for(var i = 0, len = gdjs.Level_321Code.GDInfoTextObjects2.length ;i < len;++i) {
+    gdjs.Level_321Code.GDInfoTextObjects2[i].hide(false);
+}
+}}
+
+}
+
 
 {
 
@@ -972,16 +1029,16 @@ gdjs.copyArray(runtimeScene.getObjects("Alice"), gdjs.Level_321Code.GDAliceObjec
 
 };gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDprof_95959595talk_95959595zoneObjects2Objects = Hashtable.newFrom({"prof_talk_zone": gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects2});
-gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects1Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects1});
-gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595interior_95959595doorObjects1Objects = Hashtable.newFrom({"lab_interior_door": gdjs.Level_321Code.GDlab_9595interior_9595doorObjects1});
-gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects1Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects1});
-gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects1Objects = Hashtable.newFrom({"lab_exterior_door": gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects1});
+gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
+gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595interior_95959595doorObjects2Objects = Hashtable.newFrom({"lab_interior_door": gdjs.Level_321Code.GDlab_9595interior_9595doorObjects2});
+gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
+gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects2Objects = Hashtable.newFrom({"lab_exterior_door": gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2});
 gdjs.Level_321Code.asyncCallback11505020 = function (runtimeScene, asyncObjectsList) {
-gdjs.copyArray(asyncObjectsList.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects3);
+gdjs.copyArray(asyncObjectsList.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects4);
 
 {gdjs.evtTools.runtimeScene.pushScene(runtimeScene, "CloudChamber");
-}{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects3.length ;i < len;++i) {
-    gdjs.Level_321Code.GDcoverObjects3[i].getBehavior("Opacity").setOpacity(0);
+}{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects4.length ;i < len;++i) {
+    gdjs.Level_321Code.GDcoverObjects4[i].getBehavior("Opacity").setOpacity(0);
 }
 }}
 gdjs.Level_321Code.eventsList15 = function(runtimeScene, asyncObjectsList) {
@@ -993,7 +1050,7 @@ gdjs.Level_321Code.eventsList15 = function(runtimeScene, asyncObjectsList) {
 const parentAsyncObjectsList = asyncObjectsList;
 {
 const asyncObjectsList = gdjs.LongLivedObjectsList.from(parentAsyncObjectsList);
-for (const obj of gdjs.Level_321Code.GDcoverObjects2) asyncObjectsList.addObject("cover", obj);
+for (const obj of gdjs.Level_321Code.GDcoverObjects3) asyncObjectsList.addObject("cover", obj);
 runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.Level_321Code.asyncCallback11505020(runtimeScene, asyncObjectsList)));
 }
 }
@@ -1002,9 +1059,9 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3)
 
 
 };gdjs.Level_321Code.asyncCallback9912556 = function (runtimeScene, asyncObjectsList) {
-gdjs.copyArray(runtimeScene.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects2);
-{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects2.length ;i < len;++i) {
-    gdjs.Level_321Code.GDcoverObjects2[i].getBehavior("Opacity").setOpacity(255);
+gdjs.copyArray(runtimeScene.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects3);
+{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects3.length ;i < len;++i) {
+    gdjs.Level_321Code.GDcoverObjects3[i].getBehavior("Opacity").setOpacity(255);
 }
 }
 { //Subevents
@@ -1137,9 +1194,9 @@ gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxO
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("Alice"), gdjs.Level_321Code.GDAliceObjects1);
-gdjs.copyArray(runtimeScene.getObjects("lab_exterior_door"), gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects1);
-gdjs.copyArray(runtimeScene.getObjects("lab_interior_door"), gdjs.Level_321Code.GDlab_9595interior_9595doorObjects1);
+gdjs.copyArray(runtimeScene.getObjects("Alice"), gdjs.Level_321Code.GDAliceObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lab_exterior_door"), gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lab_interior_door"), gdjs.Level_321Code.GDlab_9595interior_9595doorObjects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
@@ -1152,10 +1209,10 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.variable.getVariableBoolean(runtimeScene.getScene().getVariables().getFromIndex(9), true);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects1Objects, gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595interior_95959595doorObjects1Objects, true, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects, gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595interior_95959595doorObjects2Objects, true, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects1Objects, gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects1Objects, true, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects, gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects2Objects, true, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 {isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(10862428);
@@ -1166,6 +1223,21 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
+
+{ //Subevents
+gdjs.Level_321Code.eventsList16(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.variable.getVariableBoolean(runtimeScene.getScene().getVariables().getFromIndex(9), true);
+if (isConditionTrue_0) {
 gdjs.copyArray(runtimeScene.getObjects("InfoText"), gdjs.Level_321Code.GDInfoTextObjects1);
 gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxObjects1);
 {for(var i = 0, len = gdjs.Level_321Code.GDInfoTextObjects1.length ;i < len;++i) {
@@ -1174,10 +1246,7 @@ gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxO
 }{for(var i = 0, len = gdjs.Level_321Code.GDinfoBoxObjects1.length ;i < len;++i) {
     gdjs.Level_321Code.GDinfoBoxObjects1[i].hide();
 }
-}
-{ //Subevents
-gdjs.Level_321Code.eventsList16(runtimeScene);} //End of subevents
-}
+}}
 
 }
 
@@ -1688,81 +1757,107 @@ runtimeScene.getOnceTriggers().startNewFrame();
 gdjs.Level_321Code.GDAliceObjects1.length = 0;
 gdjs.Level_321Code.GDAliceObjects2.length = 0;
 gdjs.Level_321Code.GDAliceObjects3.length = 0;
+gdjs.Level_321Code.GDAliceObjects4.length = 0;
 gdjs.Level_321Code.GDgroundObjects1.length = 0;
 gdjs.Level_321Code.GDgroundObjects2.length = 0;
 gdjs.Level_321Code.GDgroundObjects3.length = 0;
+gdjs.Level_321Code.GDgroundObjects4.length = 0;
 gdjs.Level_321Code.GDpage_9595numberObjects1.length = 0;
 gdjs.Level_321Code.GDpage_9595numberObjects2.length = 0;
 gdjs.Level_321Code.GDpage_9595numberObjects3.length = 0;
+gdjs.Level_321Code.GDpage_9595numberObjects4.length = 0;
 gdjs.Level_321Code.GDBackground_9595hillsObjects1.length = 0;
 gdjs.Level_321Code.GDBackground_9595hillsObjects2.length = 0;
 gdjs.Level_321Code.GDBackground_9595hillsObjects3.length = 0;
+gdjs.Level_321Code.GDBackground_9595hillsObjects4.length = 0;
 gdjs.Level_321Code.GDBuildingObjects1.length = 0;
 gdjs.Level_321Code.GDBuildingObjects2.length = 0;
 gdjs.Level_321Code.GDBuildingObjects3.length = 0;
+gdjs.Level_321Code.GDBuildingObjects4.length = 0;
 gdjs.Level_321Code.GDBackground_9595cloudsObjects1.length = 0;
 gdjs.Level_321Code.GDBackground_9595cloudsObjects2.length = 0;
 gdjs.Level_321Code.GDBackground_9595cloudsObjects3.length = 0;
+gdjs.Level_321Code.GDBackground_9595cloudsObjects4.length = 0;
 gdjs.Level_321Code.GDAlice_9595textObjects1.length = 0;
 gdjs.Level_321Code.GDAlice_9595textObjects2.length = 0;
 gdjs.Level_321Code.GDAlice_9595textObjects3.length = 0;
+gdjs.Level_321Code.GDAlice_9595textObjects4.length = 0;
 gdjs.Level_321Code.GDAlice_9595bubbleObjects1.length = 0;
 gdjs.Level_321Code.GDAlice_9595bubbleObjects2.length = 0;
 gdjs.Level_321Code.GDAlice_9595bubbleObjects3.length = 0;
+gdjs.Level_321Code.GDAlice_9595bubbleObjects4.length = 0;
 gdjs.Level_321Code.GDendObjects1.length = 0;
 gdjs.Level_321Code.GDendObjects2.length = 0;
 gdjs.Level_321Code.GDendObjects3.length = 0;
+gdjs.Level_321Code.GDendObjects4.length = 0;
 gdjs.Level_321Code.GDDetector_9595labObjects1.length = 0;
 gdjs.Level_321Code.GDDetector_9595labObjects2.length = 0;
 gdjs.Level_321Code.GDDetector_9595labObjects3.length = 0;
+gdjs.Level_321Code.GDDetector_9595labObjects4.length = 0;
 gdjs.Level_321Code.GDLab_9595wallObjects1.length = 0;
 gdjs.Level_321Code.GDLab_9595wallObjects2.length = 0;
 gdjs.Level_321Code.GDLab_9595wallObjects3.length = 0;
+gdjs.Level_321Code.GDLab_9595wallObjects4.length = 0;
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects1.length = 0;
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2.length = 0;
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects3.length = 0;
+gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects4.length = 0;
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects1.length = 0;
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects2.length = 0;
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects3.length = 0;
+gdjs.Level_321Code.GDlab_9595interior_9595doorObjects4.length = 0;
 gdjs.Level_321Code.GDcoverObjects1.length = 0;
 gdjs.Level_321Code.GDcoverObjects2.length = 0;
 gdjs.Level_321Code.GDcoverObjects3.length = 0;
+gdjs.Level_321Code.GDcoverObjects4.length = 0;
 gdjs.Level_321Code.GDProfDetectosObjects1.length = 0;
 gdjs.Level_321Code.GDProfDetectosObjects2.length = 0;
 gdjs.Level_321Code.GDProfDetectosObjects3.length = 0;
+gdjs.Level_321Code.GDProfDetectosObjects4.length = 0;
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects1.length = 0;
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects2.length = 0;
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects3.length = 0;
+gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects4.length = 0;
 gdjs.Level_321Code.GDProf_9595textObjects1.length = 0;
 gdjs.Level_321Code.GDProf_9595textObjects2.length = 0;
 gdjs.Level_321Code.GDProf_9595textObjects3.length = 0;
+gdjs.Level_321Code.GDProf_9595textObjects4.length = 0;
 gdjs.Level_321Code.GDProf_9595bubbleObjects1.length = 0;
 gdjs.Level_321Code.GDProf_9595bubbleObjects2.length = 0;
 gdjs.Level_321Code.GDProf_9595bubbleObjects3.length = 0;
+gdjs.Level_321Code.GDProf_9595bubbleObjects4.length = 0;
 gdjs.Level_321Code.GDInfoTextObjects1.length = 0;
 gdjs.Level_321Code.GDInfoTextObjects2.length = 0;
 gdjs.Level_321Code.GDInfoTextObjects3.length = 0;
+gdjs.Level_321Code.GDInfoTextObjects4.length = 0;
 gdjs.Level_321Code.GDlabObjects1.length = 0;
 gdjs.Level_321Code.GDlabObjects2.length = 0;
 gdjs.Level_321Code.GDlabObjects3.length = 0;
+gdjs.Level_321Code.GDlabObjects4.length = 0;
 gdjs.Level_321Code.GDinfoBoxObjects1.length = 0;
 gdjs.Level_321Code.GDinfoBoxObjects2.length = 0;
 gdjs.Level_321Code.GDinfoBoxObjects3.length = 0;
+gdjs.Level_321Code.GDinfoBoxObjects4.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects1.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects2.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects3.length = 0;
+gdjs.Level_321Code.GDprojectorImagesObjects4.length = 0;
 gdjs.Level_321Code.GDleftObjects1.length = 0;
 gdjs.Level_321Code.GDleftObjects2.length = 0;
 gdjs.Level_321Code.GDleftObjects3.length = 0;
+gdjs.Level_321Code.GDleftObjects4.length = 0;
 gdjs.Level_321Code.GDrightObjects1.length = 0;
 gdjs.Level_321Code.GDrightObjects2.length = 0;
 gdjs.Level_321Code.GDrightObjects3.length = 0;
+gdjs.Level_321Code.GDrightObjects4.length = 0;
 gdjs.Level_321Code.GDAObjects1.length = 0;
 gdjs.Level_321Code.GDAObjects2.length = 0;
 gdjs.Level_321Code.GDAObjects3.length = 0;
+gdjs.Level_321Code.GDAObjects4.length = 0;
 gdjs.Level_321Code.GDBObjects1.length = 0;
 gdjs.Level_321Code.GDBObjects2.length = 0;
 gdjs.Level_321Code.GDBObjects3.length = 0;
+gdjs.Level_321Code.GDBObjects4.length = 0;
 
 gdjs.Level_321Code.eventsList19(runtimeScene);
 
