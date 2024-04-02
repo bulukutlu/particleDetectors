@@ -1057,7 +1057,7 @@ gdjs.Level_321Code.eventsList15 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Level_321Code.asyncCallback12358428(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(5), (runtimeScene) => (gdjs.Level_321Code.asyncCallback12358428(runtimeScene, asyncObjectsList)));
 }
 }
 
@@ -1165,24 +1165,7 @@ gdjs.copyArray(runtimeScene.getObjects("ProfDetectos"), gdjs.Level_321Code.GDPro
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.variable.getVariableBoolean(runtimeScene.getScene().getVariables().getFromIndex(6), true);
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.variable.getVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(0), false);
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-isConditionTrue_0 = !(gdjs.dialogueTree.isRunning());
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.anyKeyReleased(runtimeScene);
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(12566252);
-}
-}
-}
-}
-}
+isConditionTrue_0 = gdjs.dialogueTree.isCommandCalled("CloudChamberInfo");
 if (isConditionTrue_0) {
 
 { //Subevents
