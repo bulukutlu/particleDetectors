@@ -4,107 +4,81 @@ gdjs.Level_321Code.GDAObjects2_1final = [];
 gdjs.Level_321Code.GDAliceObjects1= [];
 gdjs.Level_321Code.GDAliceObjects2= [];
 gdjs.Level_321Code.GDAliceObjects3= [];
-gdjs.Level_321Code.GDAliceObjects4= [];
 gdjs.Level_321Code.GDgroundObjects1= [];
 gdjs.Level_321Code.GDgroundObjects2= [];
 gdjs.Level_321Code.GDgroundObjects3= [];
-gdjs.Level_321Code.GDgroundObjects4= [];
 gdjs.Level_321Code.GDpage_9595numberObjects1= [];
 gdjs.Level_321Code.GDpage_9595numberObjects2= [];
 gdjs.Level_321Code.GDpage_9595numberObjects3= [];
-gdjs.Level_321Code.GDpage_9595numberObjects4= [];
 gdjs.Level_321Code.GDBackground_9595hillsObjects1= [];
 gdjs.Level_321Code.GDBackground_9595hillsObjects2= [];
 gdjs.Level_321Code.GDBackground_9595hillsObjects3= [];
-gdjs.Level_321Code.GDBackground_9595hillsObjects4= [];
 gdjs.Level_321Code.GDBuildingObjects1= [];
 gdjs.Level_321Code.GDBuildingObjects2= [];
 gdjs.Level_321Code.GDBuildingObjects3= [];
-gdjs.Level_321Code.GDBuildingObjects4= [];
 gdjs.Level_321Code.GDBackground_9595cloudsObjects1= [];
 gdjs.Level_321Code.GDBackground_9595cloudsObjects2= [];
 gdjs.Level_321Code.GDBackground_9595cloudsObjects3= [];
-gdjs.Level_321Code.GDBackground_9595cloudsObjects4= [];
 gdjs.Level_321Code.GDAlice_9595textObjects1= [];
 gdjs.Level_321Code.GDAlice_9595textObjects2= [];
 gdjs.Level_321Code.GDAlice_9595textObjects3= [];
-gdjs.Level_321Code.GDAlice_9595textObjects4= [];
 gdjs.Level_321Code.GDAlice_9595bubbleObjects1= [];
 gdjs.Level_321Code.GDAlice_9595bubbleObjects2= [];
 gdjs.Level_321Code.GDAlice_9595bubbleObjects3= [];
-gdjs.Level_321Code.GDAlice_9595bubbleObjects4= [];
 gdjs.Level_321Code.GDendObjects1= [];
 gdjs.Level_321Code.GDendObjects2= [];
 gdjs.Level_321Code.GDendObjects3= [];
-gdjs.Level_321Code.GDendObjects4= [];
 gdjs.Level_321Code.GDDetector_9595labObjects1= [];
 gdjs.Level_321Code.GDDetector_9595labObjects2= [];
 gdjs.Level_321Code.GDDetector_9595labObjects3= [];
-gdjs.Level_321Code.GDDetector_9595labObjects4= [];
 gdjs.Level_321Code.GDLab_9595wallObjects1= [];
 gdjs.Level_321Code.GDLab_9595wallObjects2= [];
 gdjs.Level_321Code.GDLab_9595wallObjects3= [];
-gdjs.Level_321Code.GDLab_9595wallObjects4= [];
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects1= [];
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2= [];
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects3= [];
-gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects4= [];
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects1= [];
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects2= [];
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects3= [];
-gdjs.Level_321Code.GDlab_9595interior_9595doorObjects4= [];
 gdjs.Level_321Code.GDcoverObjects1= [];
 gdjs.Level_321Code.GDcoverObjects2= [];
 gdjs.Level_321Code.GDcoverObjects3= [];
-gdjs.Level_321Code.GDcoverObjects4= [];
 gdjs.Level_321Code.GDProfDetectosObjects1= [];
 gdjs.Level_321Code.GDProfDetectosObjects2= [];
 gdjs.Level_321Code.GDProfDetectosObjects3= [];
-gdjs.Level_321Code.GDProfDetectosObjects4= [];
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects1= [];
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects2= [];
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects3= [];
-gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects4= [];
 gdjs.Level_321Code.GDProf_9595textObjects1= [];
 gdjs.Level_321Code.GDProf_9595textObjects2= [];
 gdjs.Level_321Code.GDProf_9595textObjects3= [];
-gdjs.Level_321Code.GDProf_9595textObjects4= [];
 gdjs.Level_321Code.GDProf_9595bubbleObjects1= [];
 gdjs.Level_321Code.GDProf_9595bubbleObjects2= [];
 gdjs.Level_321Code.GDProf_9595bubbleObjects3= [];
-gdjs.Level_321Code.GDProf_9595bubbleObjects4= [];
 gdjs.Level_321Code.GDInfoTextObjects1= [];
 gdjs.Level_321Code.GDInfoTextObjects2= [];
 gdjs.Level_321Code.GDInfoTextObjects3= [];
-gdjs.Level_321Code.GDInfoTextObjects4= [];
 gdjs.Level_321Code.GDlabObjects1= [];
 gdjs.Level_321Code.GDlabObjects2= [];
 gdjs.Level_321Code.GDlabObjects3= [];
-gdjs.Level_321Code.GDlabObjects4= [];
 gdjs.Level_321Code.GDinfoBoxObjects1= [];
 gdjs.Level_321Code.GDinfoBoxObjects2= [];
 gdjs.Level_321Code.GDinfoBoxObjects3= [];
-gdjs.Level_321Code.GDinfoBoxObjects4= [];
 gdjs.Level_321Code.GDprojectorImagesObjects1= [];
 gdjs.Level_321Code.GDprojectorImagesObjects2= [];
 gdjs.Level_321Code.GDprojectorImagesObjects3= [];
-gdjs.Level_321Code.GDprojectorImagesObjects4= [];
 gdjs.Level_321Code.GDleftObjects1= [];
 gdjs.Level_321Code.GDleftObjects2= [];
 gdjs.Level_321Code.GDleftObjects3= [];
-gdjs.Level_321Code.GDleftObjects4= [];
 gdjs.Level_321Code.GDrightObjects1= [];
 gdjs.Level_321Code.GDrightObjects2= [];
 gdjs.Level_321Code.GDrightObjects3= [];
-gdjs.Level_321Code.GDrightObjects4= [];
 gdjs.Level_321Code.GDAObjects1= [];
 gdjs.Level_321Code.GDAObjects2= [];
 gdjs.Level_321Code.GDAObjects3= [];
-gdjs.Level_321Code.GDAObjects4= [];
 gdjs.Level_321Code.GDBObjects1= [];
 gdjs.Level_321Code.GDBObjects2= [];
 gdjs.Level_321Code.GDBObjects3= [];
-gdjs.Level_321Code.GDBObjects4= [];
 
 
 gdjs.Level_321Code.asyncCallback12557548 = function (runtimeScene, asyncObjectsList) {
@@ -1095,40 +1069,9 @@ gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595interior_
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects2Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects2});
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDlab_95959595exterior_95959595doorObjects2Objects = Hashtable.newFrom({"lab_exterior_door": gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2});
 gdjs.Level_321Code.asyncCallback12602284 = function (runtimeScene, asyncObjectsList) {
-gdjs.copyArray(asyncObjectsList.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects4);
-
 {gdjs.evtTools.runtimeScene.pushScene(runtimeScene, "CloudChamber");
-}{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects4.length ;i < len;++i) {
-    gdjs.Level_321Code.GDcoverObjects4[i].getBehavior("Opacity").setOpacity(0);
-}
 }}
-gdjs.Level_321Code.eventsList16 = function(runtimeScene, asyncObjectsList) {
-
-{
-
-
-{
-const parentAsyncObjectsList = asyncObjectsList;
-{
-const asyncObjectsList = gdjs.LongLivedObjectsList.from(parentAsyncObjectsList);
-for (const obj of gdjs.Level_321Code.GDcoverObjects3) asyncObjectsList.addObject("cover", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.Level_321Code.asyncCallback12602284(runtimeScene, asyncObjectsList)));
-}
-}
-
-}
-
-
-};gdjs.Level_321Code.asyncCallback12601860 = function (runtimeScene, asyncObjectsList) {
-gdjs.copyArray(runtimeScene.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects3);
-{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects3.length ;i < len;++i) {
-    gdjs.Level_321Code.GDcoverObjects3[i].getBehavior("Opacity").setOpacity(255);
-}
-}
-{ //Subevents
-gdjs.Level_321Code.eventsList16(runtimeScene, asyncObjectsList);} //End of subevents
-}
-gdjs.Level_321Code.eventsList17 = function(runtimeScene) {
+gdjs.Level_321Code.eventsList16 = function(runtimeScene) {
 
 {
 
@@ -1136,14 +1079,14 @@ gdjs.Level_321Code.eventsList17 = function(runtimeScene) {
 {
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.Level_321Code.asyncCallback12601860(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.Level_321Code.asyncCallback12602284(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Level_321Code.eventsList18 = function(runtimeScene) {
+};gdjs.Level_321Code.eventsList17 = function(runtimeScene) {
 
 {
 
@@ -1280,9 +1223,14 @@ isConditionTrue_0 = false;
 }
 }
 if (isConditionTrue_0) {
-
+gdjs.copyArray(runtimeScene.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects2);
+{gdjs.evtTools.variable.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(0), true);
+}{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects2.length ;i < len;++i) {
+    gdjs.Level_321Code.GDcoverObjects2[i].getBehavior("Opacity").setOpacity(255);
+}
+}
 { //Subevents
-gdjs.Level_321Code.eventsList17(runtimeScene);} //End of subevents
+gdjs.Level_321Code.eventsList16(runtimeScene);} //End of subevents
 }
 
 }
@@ -1330,7 +1278,7 @@ gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxO
 
 };gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDAliceObjects1Objects = Hashtable.newFrom({"Alice": gdjs.Level_321Code.GDAliceObjects1});
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDprof_95959595talk_95959595zoneObjects1Objects = Hashtable.newFrom({"prof_talk_zone": gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects1});
-gdjs.Level_321Code.eventsList19 = function(runtimeScene) {
+gdjs.Level_321Code.eventsList18 = function(runtimeScene) {
 
 {
 
@@ -1383,7 +1331,7 @@ gdjs.copyArray(asyncObjectsList.getObjects("ProfDetectos"), gdjs.Level_321Code.G
 }
 }{gdjs.evtTools.variable.setVariableBoolean(runtimeScene.getScene().getVariables().getFromIndex(6), false);
 }}
-gdjs.Level_321Code.eventsList20 = function(runtimeScene) {
+gdjs.Level_321Code.eventsList19 = function(runtimeScene) {
 
 {
 
@@ -1413,7 +1361,7 @@ gdjs.copyArray(runtimeScene.getObjects("infoBox"), gdjs.Level_321Code.GDinfoBoxO
     gdjs.Level_321Code.GDinfoBoxObjects2[i].hide(false);
 }
 }}
-gdjs.Level_321Code.eventsList21 = function(runtimeScene) {
+gdjs.Level_321Code.eventsList20 = function(runtimeScene) {
 
 {
 
@@ -1428,7 +1376,7 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), 
 }
 
 
-};gdjs.Level_321Code.eventsList22 = function(runtimeScene) {
+};gdjs.Level_321Code.eventsList21 = function(runtimeScene) {
 
 {
 
@@ -1575,8 +1523,12 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustResumed(runtimeScene);
 if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("cover"), gdjs.Level_321Code.GDcoverObjects1);
 {gdjs.evtTools.sound.stopSoundOnChannel(runtimeScene, 0);
 }{gdjs.evtTools.sound.playSoundOnChannel(runtimeScene, "Komiku_-_12_-_Bicycle(chosic.com).mp3", 0, true, 15, 1);
+}{for(var i = 0, len = gdjs.Level_321Code.GDcoverObjects1.length ;i < len;++i) {
+    gdjs.Level_321Code.GDcoverObjects1[i].getBehavior("Opacity").setOpacity(0);
+}
 }}
 
 }
@@ -1720,14 +1672,14 @@ gdjs.Level_321Code.eventsList14(runtimeScene);
 {
 
 
-gdjs.Level_321Code.eventsList18(runtimeScene);
+gdjs.Level_321Code.eventsList17(runtimeScene);
 }
 
 
 {
 
 
-gdjs.Level_321Code.eventsList19(runtimeScene);
+gdjs.Level_321Code.eventsList18(runtimeScene);
 }
 
 
@@ -1888,7 +1840,7 @@ gdjs.copyArray(runtimeScene.getObjects("ProfDetectos"), gdjs.Level_321Code.GDPro
 }
 }
 { //Subevents
-gdjs.Level_321Code.eventsList20(runtimeScene);} //End of subevents
+gdjs.Level_321Code.eventsList19(runtimeScene);} //End of subevents
 }
 
 }
@@ -1903,7 +1855,7 @@ isConditionTrue_0 = gdjs.dialogueTree.isCommandCalled("End");
 if (isConditionTrue_0) {
 
 { //Subevents
-gdjs.Level_321Code.eventsList21(runtimeScene);} //End of subevents
+gdjs.Level_321Code.eventsList20(runtimeScene);} //End of subevents
 }
 
 }
@@ -1917,109 +1869,83 @@ runtimeScene.getOnceTriggers().startNewFrame();
 gdjs.Level_321Code.GDAliceObjects1.length = 0;
 gdjs.Level_321Code.GDAliceObjects2.length = 0;
 gdjs.Level_321Code.GDAliceObjects3.length = 0;
-gdjs.Level_321Code.GDAliceObjects4.length = 0;
 gdjs.Level_321Code.GDgroundObjects1.length = 0;
 gdjs.Level_321Code.GDgroundObjects2.length = 0;
 gdjs.Level_321Code.GDgroundObjects3.length = 0;
-gdjs.Level_321Code.GDgroundObjects4.length = 0;
 gdjs.Level_321Code.GDpage_9595numberObjects1.length = 0;
 gdjs.Level_321Code.GDpage_9595numberObjects2.length = 0;
 gdjs.Level_321Code.GDpage_9595numberObjects3.length = 0;
-gdjs.Level_321Code.GDpage_9595numberObjects4.length = 0;
 gdjs.Level_321Code.GDBackground_9595hillsObjects1.length = 0;
 gdjs.Level_321Code.GDBackground_9595hillsObjects2.length = 0;
 gdjs.Level_321Code.GDBackground_9595hillsObjects3.length = 0;
-gdjs.Level_321Code.GDBackground_9595hillsObjects4.length = 0;
 gdjs.Level_321Code.GDBuildingObjects1.length = 0;
 gdjs.Level_321Code.GDBuildingObjects2.length = 0;
 gdjs.Level_321Code.GDBuildingObjects3.length = 0;
-gdjs.Level_321Code.GDBuildingObjects4.length = 0;
 gdjs.Level_321Code.GDBackground_9595cloudsObjects1.length = 0;
 gdjs.Level_321Code.GDBackground_9595cloudsObjects2.length = 0;
 gdjs.Level_321Code.GDBackground_9595cloudsObjects3.length = 0;
-gdjs.Level_321Code.GDBackground_9595cloudsObjects4.length = 0;
 gdjs.Level_321Code.GDAlice_9595textObjects1.length = 0;
 gdjs.Level_321Code.GDAlice_9595textObjects2.length = 0;
 gdjs.Level_321Code.GDAlice_9595textObjects3.length = 0;
-gdjs.Level_321Code.GDAlice_9595textObjects4.length = 0;
 gdjs.Level_321Code.GDAlice_9595bubbleObjects1.length = 0;
 gdjs.Level_321Code.GDAlice_9595bubbleObjects2.length = 0;
 gdjs.Level_321Code.GDAlice_9595bubbleObjects3.length = 0;
-gdjs.Level_321Code.GDAlice_9595bubbleObjects4.length = 0;
 gdjs.Level_321Code.GDendObjects1.length = 0;
 gdjs.Level_321Code.GDendObjects2.length = 0;
 gdjs.Level_321Code.GDendObjects3.length = 0;
-gdjs.Level_321Code.GDendObjects4.length = 0;
 gdjs.Level_321Code.GDDetector_9595labObjects1.length = 0;
 gdjs.Level_321Code.GDDetector_9595labObjects2.length = 0;
 gdjs.Level_321Code.GDDetector_9595labObjects3.length = 0;
-gdjs.Level_321Code.GDDetector_9595labObjects4.length = 0;
 gdjs.Level_321Code.GDLab_9595wallObjects1.length = 0;
 gdjs.Level_321Code.GDLab_9595wallObjects2.length = 0;
 gdjs.Level_321Code.GDLab_9595wallObjects3.length = 0;
-gdjs.Level_321Code.GDLab_9595wallObjects4.length = 0;
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects1.length = 0;
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects2.length = 0;
 gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects3.length = 0;
-gdjs.Level_321Code.GDlab_9595exterior_9595doorObjects4.length = 0;
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects1.length = 0;
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects2.length = 0;
 gdjs.Level_321Code.GDlab_9595interior_9595doorObjects3.length = 0;
-gdjs.Level_321Code.GDlab_9595interior_9595doorObjects4.length = 0;
 gdjs.Level_321Code.GDcoverObjects1.length = 0;
 gdjs.Level_321Code.GDcoverObjects2.length = 0;
 gdjs.Level_321Code.GDcoverObjects3.length = 0;
-gdjs.Level_321Code.GDcoverObjects4.length = 0;
 gdjs.Level_321Code.GDProfDetectosObjects1.length = 0;
 gdjs.Level_321Code.GDProfDetectosObjects2.length = 0;
 gdjs.Level_321Code.GDProfDetectosObjects3.length = 0;
-gdjs.Level_321Code.GDProfDetectosObjects4.length = 0;
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects1.length = 0;
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects2.length = 0;
 gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects3.length = 0;
-gdjs.Level_321Code.GDprof_9595talk_9595zoneObjects4.length = 0;
 gdjs.Level_321Code.GDProf_9595textObjects1.length = 0;
 gdjs.Level_321Code.GDProf_9595textObjects2.length = 0;
 gdjs.Level_321Code.GDProf_9595textObjects3.length = 0;
-gdjs.Level_321Code.GDProf_9595textObjects4.length = 0;
 gdjs.Level_321Code.GDProf_9595bubbleObjects1.length = 0;
 gdjs.Level_321Code.GDProf_9595bubbleObjects2.length = 0;
 gdjs.Level_321Code.GDProf_9595bubbleObjects3.length = 0;
-gdjs.Level_321Code.GDProf_9595bubbleObjects4.length = 0;
 gdjs.Level_321Code.GDInfoTextObjects1.length = 0;
 gdjs.Level_321Code.GDInfoTextObjects2.length = 0;
 gdjs.Level_321Code.GDInfoTextObjects3.length = 0;
-gdjs.Level_321Code.GDInfoTextObjects4.length = 0;
 gdjs.Level_321Code.GDlabObjects1.length = 0;
 gdjs.Level_321Code.GDlabObjects2.length = 0;
 gdjs.Level_321Code.GDlabObjects3.length = 0;
-gdjs.Level_321Code.GDlabObjects4.length = 0;
 gdjs.Level_321Code.GDinfoBoxObjects1.length = 0;
 gdjs.Level_321Code.GDinfoBoxObjects2.length = 0;
 gdjs.Level_321Code.GDinfoBoxObjects3.length = 0;
-gdjs.Level_321Code.GDinfoBoxObjects4.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects1.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects2.length = 0;
 gdjs.Level_321Code.GDprojectorImagesObjects3.length = 0;
-gdjs.Level_321Code.GDprojectorImagesObjects4.length = 0;
 gdjs.Level_321Code.GDleftObjects1.length = 0;
 gdjs.Level_321Code.GDleftObjects2.length = 0;
 gdjs.Level_321Code.GDleftObjects3.length = 0;
-gdjs.Level_321Code.GDleftObjects4.length = 0;
 gdjs.Level_321Code.GDrightObjects1.length = 0;
 gdjs.Level_321Code.GDrightObjects2.length = 0;
 gdjs.Level_321Code.GDrightObjects3.length = 0;
-gdjs.Level_321Code.GDrightObjects4.length = 0;
 gdjs.Level_321Code.GDAObjects1.length = 0;
 gdjs.Level_321Code.GDAObjects2.length = 0;
 gdjs.Level_321Code.GDAObjects3.length = 0;
-gdjs.Level_321Code.GDAObjects4.length = 0;
 gdjs.Level_321Code.GDBObjects1.length = 0;
 gdjs.Level_321Code.GDBObjects2.length = 0;
 gdjs.Level_321Code.GDBObjects3.length = 0;
-gdjs.Level_321Code.GDBObjects4.length = 0;
 
-gdjs.Level_321Code.eventsList22(runtimeScene);
+gdjs.Level_321Code.eventsList21(runtimeScene);
 
 return;
 
